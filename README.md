@@ -1,5 +1,6 @@
 # Uber_data-R-Studio
 1.🚖 Uber Trip Data Analysis Using R
+
 📌 Project Overview
 This project focuses on analyzing Uber trip data using the R programming language to uncover travel patterns, passenger behavior, and demand trends. By leveraging data visualization and statistical techniques, the project provides meaningful insights that can help improve decision-making in ride-sharing services.
 
