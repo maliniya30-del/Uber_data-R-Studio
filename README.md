@@ -57,9 +57,13 @@ Distance vs fare scatter plot
 
 The analysis highlights important travel trends and demand patterns in Uber services. These insights can help optimize pricing strategies, improve ride allocation, and enhance overall customer experience.
 
-Output screenshots are as below:
+9.Output screenshots are as below:
+
 https://github.com/maliniya30-del/Uber_data-R-Studio/blob/main/distance%20vs%20fare.png
 
 https://github.com/maliniya30-del/Uber_data-R-Studio/blob/main/Hourly%20trips%20trend.png
 
 https://github.com/maliniya30-del/Uber_data-R-Studio/blob/main/Location%20wise%20trips.png
+
+
+Full project report available upon request on my email id : malinibhattacharya59@gmail.com
