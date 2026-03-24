@@ -56,3 +56,6 @@ Distance vs fare scatter plot
 8.Conclusion:
 
 The analysis highlights important travel trends and demand patterns in Uber services. These insights can help optimize pricing strategies, improve ride allocation, and enhance overall customer experience.
+
+Output screenshots are as below:
+
