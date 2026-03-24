@@ -61,3 +61,5 @@ Output screenshots are as below:
 https://github.com/maliniya30-del/Uber_data-R-Studio/blob/main/distance%20vs%20fare.png
 
 https://github.com/maliniya30-del/Uber_data-R-Studio/blob/main/Hourly%20trips%20trend.png
+
+https://github.com/maliniya30-del/Uber_data-R-Studio/blob/main/Location%20wise%20trips.png
